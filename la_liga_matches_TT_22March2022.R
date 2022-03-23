@@ -1,5 +1,7 @@
 # NSC-R Tidy Tuesday March 22, 2022
 # Wim Bernasco
+# Franziska Yasrebi-de Kom provided fertile suggestions on code and
+#    comments
 
 # Install packages, the admin reuqired to get going 
 install.packages('tidyverse')
